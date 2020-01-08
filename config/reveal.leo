@@ -29,8 +29,11 @@
 <v t="leo.20200109015146.1"><vh>國旗</vh>
 <v t="leo.20200109015146.2"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20200109015153.1"><vh>影片</vh>
+<v t="leo.20200109015153.1"><vh>w16影片</vh>
 <v t="leo.20200109015153.2"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20200109021824.1"><vh>w17影片</vh>
+<v t="leo.20200109021824.2"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200109015159.1"><vh>自評成績</vh>
 <v t="leo.20200109015159.2"><vh>newHeadline</vh></v>
@@ -278,5 +281,13 @@ Created by [40523207 倉儲](https://github.com/s40523207/cp2019/)
 &lt;/section&gt;</t>
 <t tx="leo.20200109015208.2">## 心得
 這學期學了新的Dart程式、影片加字幕、ssh推送網頁等等...每週不管做多少都推一點，版本打清楚，透過這些工具慢慢累積，這樣不只能有效學習還能跟同儕甚至其他人互相幫助。</t>
+<t tx="leo.20200109021824.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200109021824.2">## W16 影片
+
+&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/Mn-Yzso3rt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
