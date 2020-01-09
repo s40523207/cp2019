@@ -286,7 +286,7 @@ Created by [40523207 倉儲](https://github.com/s40523207/cp2019/)
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200109021824.2">## W16 影片
+<t tx="leo.20200109021824.2">## W17 影片
 
 &lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/Mn-Yzso3rt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
